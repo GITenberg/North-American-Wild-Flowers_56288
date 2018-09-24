@@ -1,0 +1,29 @@
+_repo: North-American-Wild-Flowers_56288
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: FitzGibbon, Agnes
+    gutenberg_agent_id: '48767'
+    url: http://www.gutenberg.org/2009/agents/48767
+  - agent_name: Traill, Catharine Parr Strickland
+    aliases:
+    - Traill, Catherine Parr
+    - Traill, Mrs.
+    birthdate: 1802
+    deathdate: 1899
+    gutenberg_agent_id: '2715'
+    url: http://www.gutenberg.org/2009/agents/2715
+    wikipedia: http://en.wikipedia.org/wiki/Catharine_Parr_Traill
+description: ''
+gutenberg_issued: '2018-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56288'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: North American Wild Flowers
+url: http://www.gutenberg.org/ebooks/56288
